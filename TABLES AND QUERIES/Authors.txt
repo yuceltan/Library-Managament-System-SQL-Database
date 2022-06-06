@@ -1,0 +1,14 @@
+INSERT INTO Author (Author_ID, Author_NAME,Author_SURNAME)
+VALUES
+(1,'Olga','TOKARCZUK'),
+(2,'Andrzej','SAPKOWSKI'),
+(3,'Katarzyna','BONDA'),
+(4,'Witold','GOMBROWICZ),
+(5,'Omer','SEYFETTIN'),
+(6,'Ihsan Oktay','ANAR'),
+(7,'Ilber','ORTAYLI'),
+(8,'Sebahattin','ALI'),
+(9,'Dan','BROWN'),
+(10,'Adam','FAWER'),
+(11,'Stefan','ZWEIG'),
+(12,'Stephen','KING');

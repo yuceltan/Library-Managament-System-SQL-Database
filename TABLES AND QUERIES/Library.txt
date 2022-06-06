@@ -1,0 +1,5 @@
+INSERT INTO Libraries (Library_ID, Library_NAME)
+VALUES
+(1,'Biblioteka Narodowa'),
+(2,'Warszava Central Library'),
+(3,'SGH Library');

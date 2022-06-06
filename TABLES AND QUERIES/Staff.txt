@@ -1,0 +1,7 @@
+INSERT INTO Staff (Staff_ID, Staff_NAME,Staff_SURNAME,Date_Of_Start,Job_Of_Staff,Library_ID)
+VALUES
+(1,'Marcin','REYMONT','2013-01-11'),
+(3,'Abdullah','AYDOGDU','2019-10-12','Systems Librarian',2),
+(4,'Konrad','MICHALAK','2020-07-02','Archivist',2),
+(5,'Yüceltan','EBIRI','2021-09-29','Technic Systems',3),
+(6,'Demelza','VIVIAN','2018-05-02','Boss',3);

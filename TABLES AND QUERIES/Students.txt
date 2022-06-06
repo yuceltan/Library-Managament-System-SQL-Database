@@ -1,0 +1,23 @@
+INSERT INTO Student (Student_ID, Student_NAME,Student_SURNAME,Birth_DATE,Student_GENDER,Student_CLASS,Date_Of_Enrollment,End_Of_Enrollment)
+VALUES
+(1,'Zuzanna','BRECISZEWSKA','1999-12-30','Female','A','2020-02-10','2023-02-10'),
+(2,'Wiktoria','KOWALSKA','2000-10-11','Female','A','2019-02-01','2021-02-01'),
+(3,'Adam','NOWAK','1998-10-23','Male','B','2021-03-12','2022-03-12'),
+(4,'Sefa','ALANUR','2000-01-01','Male','A','2020-02-10','2023-02-10'),
+(5,'Kamil','HAJROWICZ','1996-08-22','Male','C','2017-10-10','2024-10-10'),
+(6,'Zofia','DZIEN','2003-11-10','Female','B','2021-09-29','2025-09-29'),
+(7,'Robert','SZCZEMAK','2000-03-10','Male','C','2021-03-12','2022-03-12'),
+(8,'Karim','BENZEMA','2000-03-10','Male','D','2019-04-05','2023-04-05'),
+(9,'Eden','HAZARD','1997-07-21','Male','C','2021-02-10','2022-02-10'),
+(10,'Robert','LEWANDOWSKI','1999-12-30','Male','C','2021-07-06','2022-07-06'),
+(11,'David','ALABA','1996-01-04','Male','B','2021-05-10','2022-05-10'),
+(12,'Aleksandra','WOJCIK','1997-08-17','Female','C','2021-03-04','2022-03-04'),
+(13,'Agnieszka','KAKOLEWSKA','2001-07-23','Female','C','2021-03-20','2022-03-30'),
+(14,'Martyna','GRAJBER','1998-02-19','Female','A','2021-09-02','2021-09-02'),
+(15,'Cador','BOHENO','1991-05-28','Male','F','2020-09-29','2023-09-29'),
+(16,'Rudhek','CORRINGTON','1996-06-25','Male','F','2020-08-04','2023-08-16'),
+(17,'Loumarch','BORLESA','2000-09-29','Female','F','2019-09-02','2021-09-02'),
+(18,'Kenwyn','RESTARICK','2001-02-11','Female','C','2020-07-01','2023-10-09'),
+(19,'Ruman','TREYMONT','1999-11-28','Male','B','2018-05-13','2023-04-10'),
+(20,'Maeloc','NANO','1980-10-19','Female','B','2017-10-23','2023-10-23'),
+(21,'Conan','TREMBOTH','1990-04-15','Male','A','2020-08-17','2023-08-19');

@@ -1,0 +1,9 @@
+INSERT INTO Customer (Customer_ID, Customer_NAME,Customer_SURNAME,Library_ID)
+VALUES
+
+(1,'Nora','SARA',2),
+(2,'Yusuf','GUZEL',2),
+(3,'Cem','Yilmaz',2),
+(4,'Ozgur','Turhan',2),
+(5,'Jabub','Mark',3),
+(6,'Maho','Kura',3);

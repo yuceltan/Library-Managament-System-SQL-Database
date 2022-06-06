@@ -1,0 +1,8 @@
+INSERT INTO Publisher (Publisher_ID, Publisher_NAME)
+VALUES
+(1,'Publisher Horizon'),
+(2,'BlueOcean Publisher'),
+(3,'YKY UniCredit Book Publishing'),
+(4,'Epsilon Publisher'),
+(5,'Dzanc Books'),
+(6,'Flying Eye Books');
